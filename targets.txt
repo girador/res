@@ -5,4 +5,4 @@
 -c https://raw.githubusercontent.com/hem017/cytro/master/targets_all.txt --http-methods GET STRESS
 -c https://cdn.uashield.cc/sites.txt --http-methods GET STRESS
 -c https://raw.githubusercontent.com/girador/res/main/iptv.txt --http-methods GET STRESS
--c https://github.com/girador/res/blob/main/amediateka.txt --http-methods GET STRESS
+-c https://raw.githubusercontent.com/girador/res/main/amediateka.txt --http-methods GET STRESS
