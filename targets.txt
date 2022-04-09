@@ -1,8 +1,8 @@
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/easy_targets --http-methods GET
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/biggeek_re-store --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/girador/res/main/electronics.txt --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/girador/res/main/crpt.txt --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/girador/res/main/crimea.txt --http-methods GET STRESS
 
 -c https://raw.githubusercontent.com/hem017/cytro/master/targets_all.txt --http-methods GET STRESS
 -c https://cdn.uashield.cc/sites.txt --http-methods GET STRESS
--c https://raw.githubusercontent.com/girador/res/main/ddos_separ.txt --http-methods GET STRESS
--c https://raw.githubusercontent.com/girador/res/main/it_army.txt --http-methods GET STRESS
--c https://raw.githubusercontent.com/girador/res/main/cyber_police.txt --http-methods GET STRESS
+-c https://raw.githubusercontent.com/girador/res/main/iptv.txt --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/amediateka --http-methods GET STRESS
