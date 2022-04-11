@@ -1,0 +1,14 @@
+https://sbis.ru/
+https://webmail.sbis.ru/
+https://wi.sbis.ru/auth/?ret=%2F
+https://sso.sbis.ru/auth-online/?ret=
+https://fix-sso.sbis.ru/auth-online/?ret=
+https://taxcom.ru/
+http://transit1.taxcom.ru/
+http://support.taxcom.ru/
+https://lk-ofd.taxcom.ru/
+http://docliner.taxcom.ru/
+http://abonent.taxcom.ru/
+https://ofd.ru/
+https://lk.ofd.ru/
+https://chronopay.ofd.ru/
