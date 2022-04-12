@@ -9,3 +9,5 @@ http://nrz.api.sb.mdlp.crpt.ru
 http://api.sb.mdlp.crpt.ru
 https://mail.crpt.ru/owa/auth/logon.aspx?replaceCurrent=1
 https://честныйзнак.рф/potrebitelyam/
+https://xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai
+https://xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/v3/feed-product?apikey=6A9769C235F234&gtin=63649273152709
