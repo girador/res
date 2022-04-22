@@ -1,8 +1,3 @@
-https://regservice.keydisk.ru
-https://callback.keydisk.ru
-http://report.keydisk.ru
-https://nsqadmin.1c-edo.keydisk.ru
-https://invitations.1c-edo.keydisk.ru
 https://service.fsrar.ru
 http://frap.fsrar.ru
 https://fsrar.gov.ru
