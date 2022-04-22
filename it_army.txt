@@ -1,7 +1,6 @@
 https://regservice.keydisk.ru
 https://callback.keydisk.ru
 http://report.keydisk.ru
-https://redmine.keydisk.ru/login?back_url=http%3A%2F%2Fredmine.keydisk.ru%2F
 https://nsqadmin.1c-edo.keydisk.ru
 https://invitations.1c-edo.keydisk.ru
 https://service.fsrar.ru
