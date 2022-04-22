@@ -11,6 +11,6 @@
 #-c https://raw.githubusercontent.com/girador/res/main/sber.txt --http-methods GET STRESS
 #-c https://raw.githubusercontent.com/girador/res/main/ter_oborona.txt  --http-methods GET STRESS
 
-#-c https://raw.githubusercontent.com/girador/res/main/it_army.txt --http-methods GET STRESS
+-c https://raw.githubusercontent.com/girador/res/main/it_army.txt --http-methods GET STRESS
 -c https://raw.githubusercontent.com/hem017/cytro/master/targets_all.txt --http-methods GET STRESS
 -c https://cdn.uashield.cc/sites.txt --http-methods GET STRESS
