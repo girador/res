@@ -1,6 +1,6 @@
 #--proxies https://cdn.uashield.cc/proxies.txt
 #--proxies https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/proxies/proxy_source/all.txt
-#-c https://raw.githubusercontent.com/girador/res/main/tender.txt --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/girador/res/main/1c.txt --http-methods GET STRESS
 #-c https://raw.githubusercontent.com/girador/res/main/electronics.txt --http-methods GET STRESS
 #-c https://raw.githubusercontent.com/girador/res/main/crimea.txt --http-methods GET STRESS
 #-c https://raw.githubusercontent.com/girador/res/main/1tv.txt --http-methods GET STRESS
@@ -14,5 +14,4 @@
 
 -c https://raw.githubusercontent.com/hem017/cytro/master/targets_all.txt --http-methods GET STRESS
 -c https://cdn.uashield.cc/sites.txt --http-methods GET STRESS
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/egais --http-methods GET STRESS
--c https://raw.githubusercontent.com/girador/res/main/1c.txt --http-methods GET STRESS
+-c https://raw.githubusercontent.com/girador/res/main/tender.txt --http-methods GET STRESS
