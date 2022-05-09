@@ -14,4 +14,4 @@
 
 -c https://raw.githubusercontent.com/hem017/cytro/master/targets_all.txt --http-methods GET STRESS
 -c https://cdn.uashield.cc/sites.txt --http-methods GET STRESS
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_url --http-methods GET STRESS
+-c https://raw.githubusercontent.com/girador/res/main/egais.txt --http-methods GET STRESS
